@@ -1,4 +1,4 @@
-In https://github.com/wangyangvictor/quad4prod/blob/main/code
+In https://github.com/wangyangvictor/quad4prod/blob/main/code.txt
 we present AI-generated, human-verified
 [Z3Py](https://pypi.org/project/z3-solver/) code
 to prove $E\le 3/2$ in Lemma 6.3 of arXiv v1 of the paper "Random Multiplicative Functions and Making Squares from Polynomial Values".
