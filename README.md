@@ -6,3 +6,11 @@ Z3Py is a Python-based implementation of Microsoft's Z3 solver,
 which includes linear programming.
 We ran the code online
 using [Google Colab](https://colab.research.google.com/).
+
+It is possible to explore the function $E$ further by slightly modifying the code.
+For example, the equality case $E = 3/2$ can be realized even if we replace
+sharp.add(R >= THREE_HALVES)
+with
+sharp.add(R >= 3),
+but not if we replace it with
+sharp.add(R >= 3.1).
